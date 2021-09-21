@@ -1,3 +1,3 @@
 # Compiler-Design-Lab
 
-- This repository includes all the lab task of  Compiler Design course. 
+- This repository includes all the lab tasks of  Compiler Design course. 
