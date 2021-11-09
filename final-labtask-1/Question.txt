@@ -1,0 +1,1 @@
+Write a C++ program that will take 6 inputs from user and check whether the keywords are valid or not. Keywords must be read from a text file.
